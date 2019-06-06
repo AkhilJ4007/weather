@@ -1,0 +1,7 @@
+Open weather maps
+
+973d3346b9adcf21c88d0798666bbd61
+
+Algolia
+
+appID: "XA9G24IYUB", apiKey: "f584bfdf587e7066d5878fbd387c3289"
